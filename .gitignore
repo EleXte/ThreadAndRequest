@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/ThreadAndRequest/v15
+/ThreadAndRequest/x64/Debug
+/x64/Debug
